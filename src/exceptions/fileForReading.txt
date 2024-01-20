@@ -1,0 +1,9 @@
+I am writing some lines
+here for reading them 
+in java. I am adding new lines,
+
+sometimes empty lines and spaces   here and there
+
+
+
+amd everywhere. 
